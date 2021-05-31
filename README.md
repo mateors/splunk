@@ -1,6 +1,8 @@
 # Splunk Tutorial
 
 # Splunk how to create your first app.
+> https://dev.splunk.com/enterprise/tutorials/quickstart/createyourfirstapp/
+
 > https://www.youtube.com/watch?v=EaRpID7FuhM
 
 > https://www.youtube.com/watch?v=1lkhVN9DGJU
